@@ -1,4 +1,4 @@
-# Functions (Newly)
+# Functions (Newly- Frame made by chatbot)
 
 This repository serves as a personal workspace for exploring code, practicing programming concepts, and documenting. 
 
@@ -17,8 +17,6 @@ This directory contains reusable functions I've created for various purposes. Ea
     - Description: Briefly explain the function's purpose.
     - Usage: Provide an example of how to call and use the function.
 
-* (Add more function entries as needed)
-
 ## Homework
 
 This directory contains completed homework assignments for different programming courses or self-directed learning. Each folder will represent a specific assignment with:
@@ -31,8 +29,6 @@ This directory contains completed homework assignments for different programming
     - Description: Briefly describe the assignment topic or prompt.
     - Files: List the code files for the solution.
 
-* (Add more homework entries as needed)
-
 ## Tries (Experiments)
 
 This directory houses code snippets and experiments I've conducted to explore new concepts, test hypotheses, or practice specific techniques. Each experiment will be documented:
@@ -40,8 +36,6 @@ This directory houses code snippets and experiments I've conducted to explore ne
 * **try_name.py**
     - Description: Briefly explain the experiment's objective or what you're trying out.
     - Code: Show the code used in the experiment.
-
-* (Add more experiment entries as needed)
 
 
 ## Notes
@@ -51,4 +45,3 @@ This directory contains notes I've taken while learning or working on different 
 * **notes.md**
     - Organize your notes by topic or keep a single file for general notes.
 
-* (Add more note entries as needed)
