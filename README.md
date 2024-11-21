@@ -16,6 +16,11 @@ This directory contains reusable functions I've created for various purposes. Ea
 * **function_name1.py** (or relevant file extension)
     - Description: Briefly explain the function's purpose.
     - Usage: Provide an example of how to call and use the function.
+ 
+* **euclideanDistance.py** (or relevant file extension)
+    - Description: This function calculates the Euclidean distance between two points in n-dimensional space. The Euclidean distance is the straight-line distance between two points.
+    - Usage: Provide an example of how to call and use the function.(yet to fill)
+    - Resource: https://en.wikipedia.org/wiki/Euclidean_distance
 
 ## Homework
 
